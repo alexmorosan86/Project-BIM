@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@faker-js/faker": "^6.3.1",
+    "cypress": "^9.6.0",
+    "faker": "^6.6.6",
+    "Faker": "^0.7.2"
+  },
+  "name": "bim-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run "
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress-file-upload": "^5.0.8"
+  }
+}
