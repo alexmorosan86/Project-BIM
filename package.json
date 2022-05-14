@@ -1,7 +1,6 @@
 {
   "dependencies": {
     "@faker-js/faker": "^6.3.1",
-    "cypress": "^9.6.0",
     "faker": "^6.6.6",
     "Faker": "^0.7.2"
   },
@@ -13,8 +12,17 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "Cypress Automation Framework",
   "devDependencies": {
+    "cypress": "^9.6.1",
     "cypress-file-upload": "^5.0.8"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexmorosan86/cypress-automation-framework.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alexmorosan86/cypress-automation-framework/issues"
+  },
+  "homepage": "https://github.com/alexmorosan86/cypress-automation-framework#readme"
 }
